@@ -1,4 +1,4 @@
-# PPRD Systems: Security Infrastructure
+# PPRD Systems: Security Infrastructure (WIP)
 
 > **Building a Secure Foundation for Modern Software Systems**  
 > *PPRD Systems: Innovating across IoT, Fintech, and Healthcare domains.*
